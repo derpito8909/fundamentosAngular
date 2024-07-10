@@ -1,0 +1,16 @@
+.caja {
+  width: 150px;
+  height: 150px;
+  border: solid 2px green;
+  margin-top: 50px;
+}
+
+.colorAzul {
+  background-color: blue;
+}
+.colorRojo {
+  background-color: red;
+}
+.colorturquesa {
+  background-color: turquoise;
+}
